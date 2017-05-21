@@ -1,0 +1,8 @@
+[
+	{
+		"remote": "github",
+		"repository": "SeriniTY320/android_vendor_meizu_m5note",
+		"target_path": "vendor/meizu/m5note",
+		"branch": "master"
+	},
+]
